@@ -1,8 +1,9 @@
-================================================================================
+Download Code.gs Disini : https://link.gistariau.com/go/#aHR0cHM6Ly9saW5rLWdpc3RhLmJsb2dzcG90LmNvbS9wL3NhZmVsaW5rLmh0bWw_dXJsPWFIUjBjSE1sTTBFbE1rWWxNa1ozZDNjdWJXVmthV0ZtYVhKbExtTnZiU1V5Um1acGJHVWxNa1l4Wm1GcU0yZHVaSFJ4Y21GMmFqTWxNa1pqYjJSbFgyZHpMblI0ZENVeVJtWnBiR1UlM0Q
+
 PANDUAN INSTALASI & PENGUJIAN LENGKAP
 POS – Aplikasi Kasir, Keuangan, dan Stok UMKM
 Dikembangkan oleh PT. GISTARIAU GEOSPASIAL SOLUTION (https://gistariau.com/)
-================================================================================
+
 
 DAFTAR ISI:
 A. Instalasi Backend (Google Spreadsheet & Google Apps Script)
